@@ -25,5 +25,5 @@
 #busybox
 nginx
 redis
-consul
+consul:1.15.4
 memcached

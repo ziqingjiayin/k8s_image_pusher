@@ -20,3 +20,6 @@ flannel/flannel:v0.24.4
 flannel/flannel-cni-plugin:v1.5.1-flannel2
 flannel/flannel-cni-plugin:v1.5.1-flannel1
 flannel/flannel-cni-plugin:v1.4.1-flannel1
+
+nginx:1.14.2
+busybox
